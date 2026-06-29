@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+coverage
+.prima
+*.log
+.DS_Store
+.vscode
